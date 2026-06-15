@@ -76,6 +76,7 @@ void opcontrol(void);
 #include "subsystemHeaders/globals.hpp"
 #include "subsystemHeaders/otherSubs.hpp"
 #include "subsystemHeaders/intakes.hpp"
+#include  "subsystemHeaders/intake.hpp/auton.hpp"
 
 
 

@@ -7,4 +7,8 @@ void setIntakeMotors();
 
 void setIndexer(int indexPower);
 
-void setIndexerMotors();
+void setIndexerMotor();
+
+void setDeciderMotor(int deciderPower);
+
+void setDecider();
